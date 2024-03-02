@@ -1,5 +1,4 @@
-I’m @GabrielSilvaSouza, a Computer Engineering student at Federal University of Rio de Janeiro !⚽🚋
-I'm really into Machine Learning, specially in languages like python, c# and the so feared JAVA.
+
 
 <a href="https://github.com/GabrielSilvaSouza/GabrielSilvaSouza/github-readme-stats">
   <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api?username=GabrielSilvaSouza&show_icons=true&theme=dark#gh-dark-mode-only" />
