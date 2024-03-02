@@ -2,10 +2,10 @@ I’m @GabrielSilvaSouza, a Computer Engineering student at Federal University o
 I'm really into Machine Learning, specially in languages like python, c# and the so feared JAVA.
 
 <a href="https://github.com/GabrielSilvaSouza/GabrielSilvaSouza/github-readme-stats">
-  <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api?username=lucas-inocencio&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api?username=GabrielSilvaSouza&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/GabrielSilvaSouza/convoychat">
-  <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-inocencio&layout=compact&theme=dark&hide=jupyter%20notebook">
+  <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaSouza&layout=compact&theme=dark&hide=jupyter%20notebook">
 </a>
 
 <div style="display: inline_block"><br>
